@@ -45,8 +45,8 @@ const mangayomiSources = [
             "sr": 373675453,
             "da": 574420905
         },
-        "baseUrl": "https://comick.io",
-        "apiUrl": "https://api.comick.fun",
+        "baseUrl": "https://comick.cc",
+        "apiUrl": "https://api.comick.cc",
         "iconUrl": "https://raw.githubusercontent.com/kodjodevf/mangayomi-extensions/main/javascript/icon/all.comick.png",
         "typeSource": "single",
         "itemType": 0,
